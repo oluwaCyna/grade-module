@@ -1,0 +1,14 @@
+{
+    "name": "delwathon/grade-module",
+    "description": "Grading system module for eduthon product",
+    "type": "laravel-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Delwathon IT Solutions",
+            "email": "mujeeb.abdullateef@delwathon.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
